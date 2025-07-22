@@ -49,7 +49,7 @@ With thousands of songs released daily, it's challenging to identify what makes 
 
 ## Dashboard Preview
 
-> 🖼️ *(Insert a screenshot or GIF of the Power BI dashboard here)*
+> ![Overview](Images/Overview.png)
 
 
 
