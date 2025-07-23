@@ -25,31 +25,49 @@ With thousands of songs released daily, it's challenging to identify what makes 
    - Built a custom Date table for time intelligence (Year, Month, Weekday)
    - Linked 'date` to the calendar for smooth filtering
 
+2. **calculated columns**:
+   - Built a calculated columns `Total_Playlists`, `Total_Chart_Presence`, `Artist_Type`, `Energy_Level_Group`
+  
+---
+
+### 📍 **Dashboard 1 – Trends Overview**
+- **KPIs**: Total Streams, Avg Streams, Total Tracks  
+- **Trends by Month & Day**: Identified Friday and Aug–Sep as high-performing periods  
+- **Top Songs**: Blinding Lights leads with 3.7B streams  
+- **Insights**: High energy, medium danceability songs perform well
 
 ---
 
+### 📍 **Dashboard 2 – Performance Deep Dive**
+- **Scatter Plot**: Shows strong correlation between playlist count and streams  
+- **Energy Level Analysis**: Medium energy tracks perform best (avg. 0.54B)  
+- **Artist Type Analysis**: Solo artists drive more total streams  
+- **Quarterly Analysis**: Q1 sees highest average stream volume; Q2 underperforms  
+- **Underperforming Tracks**: Table flags songs with strong playlisting but weak results
+- 
+---
 ## Key Insights
-- **Friday dominates**: Highest streaming volume (~167B), 3x higher than other weekdays  
-- **August–September**: Fewer releases, but **~20% higher avg. streams** per track  
-- **Top Tracks Profile**:
-  - High Energy (80%)
-  - Low Speechiness (7%)
-  - Mid Danceability (50%)
-- **Blinding Lights** by The Weeknd is the highest streamed track (3.7B+ streams)
+- Friday and Q1 releases perform best — critical for scheduling drops  
+- Mid-energy tracks get higher avg. streams; low-energy underperform  
+- Playlist count helps, but alone doesn’t guarantee high engagement  
+- Some tracks in 500+ playlists still lack impact — require deeper review  
+- Solo artists dominate volume, but strategic collabs still show promise
 
 ---
 
 ## Recommendations
-- **Optimize Release Days**: Prioritize **Friday drops** to maximize exposure  
-- **Target Aug–Sep** for big launches based on seasonal listener behavior  
-- **Leverage Audio Traits**: Promote or curate tracks with **high energy** and **low speechiness** for better engagement  
-- **Playlist Strategy**: Deep dive into playlist inclusion to identify stream-driving lists
+- Prioritize Q1 and Friday releases for major drops  
+- Promote tracks with **medium-to-high energy** for better engagement  
+- Monitor underperforming playlist-heavy songs for optimization  
+- Balance quantity and quality in collab releases  
+- Tailor playlist placement based on energy/danceability fit
 
 ---
 
 ## Dashboard Preview
 
-> ![Overview](Images/Overview.png)
+ ![Overview](Images/Overview.png)
 
+---
 
-
+ ![Overview](Images/Performance.png)
