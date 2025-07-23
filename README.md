@@ -30,7 +30,7 @@ With thousands of songs released daily, it's challenging to identify what makes 
   
 ---
 
-### 📍 **Dashboard 1 – Trends Overview**
+### **Dashboard 1 – Overview**
 - **KPIs**: Total Streams, Avg Streams, Total Tracks  
 - **Trends by Month & Day**: Identified Friday and Aug–Sep as high-performing periods  
 - **Top Songs**: Blinding Lights leads with 3.7B streams  
@@ -38,13 +38,12 @@ With thousands of songs released daily, it's challenging to identify what makes 
 
 ---
 
-### 📍 **Dashboard 2 – Performance Deep Dive**
+### **Dashboard 2 – Performance **
 - **Scatter Plot**: Shows strong correlation between playlist count and streams  
 - **Energy Level Analysis**: Medium energy tracks perform best (avg. 0.54B)  
 - **Artist Type Analysis**: Solo artists drive more total streams  
 - **Quarterly Analysis**: Q1 sees highest average stream volume; Q2 underperforms  
 - **Underperforming Tracks**: Table flags songs with strong playlisting but weak results
-- 
 ---
 ## Key Insights
 - Friday and Q1 releases perform best — critical for scheduling drops  
