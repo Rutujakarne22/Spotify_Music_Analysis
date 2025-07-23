@@ -38,7 +38,7 @@ With thousands of songs released daily, it's challenging to identify what makes 
 
 ---
 
-### **Dashboard 2 – Performance **
+###  **Dashboard 2 – Performance**
 - **Scatter Plot**: Shows strong correlation between playlist count and streams  
 - **Energy Level Analysis**: Medium energy tracks perform best (avg. 0.54B)  
 - **Artist Type Analysis**: Solo artists drive more total streams  
